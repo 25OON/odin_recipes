@@ -1,1 +1,1 @@
-# odin_recipes
+Trying to complete lesson and understand HTML
